@@ -1,0 +1,507 @@
+commit 562c9c95b4441ced832bd310792bff14a6b82995
+Author: JurajSeptak <juse@itu.dk>
+Date:   Wed Mar 2 16:10:10 2022 +0100
+
+    Replaced handin
+
+commit 0d1ab9dd2df98e639b08abf096445b07caba96ca
+Author: Francisco Antonio Vilhena Pires de Melo Parente <frvi@itu.dk>
+Date:   Tue Mar 1 15:10:09 2022 +0100
+
+    Add files via upload
+
+commit d5303e009d7fc1656f61b2e75e25b9d3be07449c
+Merge: a0a6802 d13b628
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Tue Mar 1 12:50:37 2022 +0100
+
+    Merge pull request #1 from Jawi/Jawi-patch-1
+    
+    Add files via upload
+
+commit d13b628ec24e6d61ea4294e1ec4fcda21cff6a87
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Tue Mar 1 12:50:23 2022 +0100
+
+    Add files via upload
+
+commit a0a6802f7703390f615aab47391386f4462d7257
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Mon Feb 28 15:41:09 2022 +0100
+
+    Add files via upload
+
+commit 28336b64350caa80ce994be38fe2c4774bd2dd04
+Author: JurajSeptak <juse@itu.dk>
+Date:   Mon Feb 28 15:22:59 2022 +0100
+
+    Create germany.ipynb
+
+commit c86c707fe2de97583d05a1ffbcf6cf75ec3da8a4
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Mon Feb 28 14:51:40 2022 +0100
+
+    Add files via upload
+
+commit 1c14fdb66dffdf0e8ac69466d5a4e23e08b8a26b
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Mon Feb 28 11:45:53 2022 +0100
+
+    Add files via upload
+
+commit 7bcadcc5c710deeef322a33d05e9a1a06bbc32e7
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 13:54:49 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 22b0146f9bb4dc6f38d2c4939ceb5a26931868b3
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 13:52:00 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 05439b30c47ef0a4090c4877db666ecfe5247904
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 13:44:49 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 37be195766bf06948aed5a43898defc16526dcf5
+Merge: 542b744 1e3d165
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 13:36:39 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/Jawi/fyp2022p01A
+
+commit 542b744807877c88fe8e557774ae0bbdb07ea44e
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 13:36:27 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 1e3d165b08a556cb6a65558448e70d3670c70454
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 24 13:17:54 2022 +0100
+
+    Add files via upload
+
+commit 3dae11c5c1ffa30d7de1c5f4e2e32979f35be6dd
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 13:11:32 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 9764e055840c0eeb360a42b3facab6ab950b81ca
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 13:09:55 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 5e904dc32555874e5176dfabdd5dc510b296cc49
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 12:56:38 2022 +0100
+
+    Update project_handin.ipynb
+
+commit a40588eb745b83cc71b4033333a0036fe3e18096
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 12:46:19 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 23cdcf6dc7740278042641731fa4e69330c469ee
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 12:41:14 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 0c6274e0e0680effd5f7b91893d581ae1ff3bee2
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 24 12:27:37 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 5d50f142125d3f0b27d1aa5ca9a72492c34b6901
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Tue Feb 22 13:39:56 2022 +0100
+
+    Add files via upload
+
+commit 8776e94a81fea8af24e2b1d0e989d9ced5a8bfc8
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 22 13:35:13 2022 +0100
+
+    Task 4 update
+
+commit 114ec5853a41325070c57f0fbe04038e3aa2c285
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 22 13:32:01 2022 +0100
+
+    Update project_handin.ipynb
+
+commit 3be0168748243617a3d0cdc5d57034cd5343d183
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 22 13:25:04 2022 +0100
+
+    Update project_handin.ipynb
+
+commit d1b1198ae60ccb2861afcc97305bc2718c0198a1
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 22 13:24:30 2022 +0100
+
+    Update project_handin.ipynb
+
+commit b203be6b0e77cc14ddfcb7589985c0912bb14bf9
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 22 13:06:43 2022 +0100
+
+    Update project_handin.ipynb
+
+commit a11c3f956643ebb9771d5d45923958926c033acc
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 22 12:56:34 2022 +0100
+
+    Create project_handin.ipynb
+
+commit 08ebba043c4666df3a911c618697d70881a8b198
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 17 17:47:02 2022 +0100
+
+    Add files via upload
+
+commit 8d91c458744edbd28c822ece6dbf611aad09b05c
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 17 14:18:03 2022 +0100
+
+    Add files via upload
+
+commit cfe23f25a243d17c1e347b29c9e3cda2ea5dd347
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 17 14:09:05 2022 +0100
+
+    Update Project1.ipynb
+
+commit 5f39b2076abcc2cf70f32f8cee86ebb4fce3eaaa
+Author: lsar <lsar@itu.dk>
+Date:   Thu Feb 17 13:03:25 2022 +0100
+
+    1
+
+commit 9d6a8f531ec497c6ad7d4389bf7ac8e2f701eb49
+Author: lsar <lsar@itu.dk>
+Date:   Thu Feb 17 12:58:47 2022 +0100
+
+    1
+
+commit 55cbcc4f213083ae36549836ae6f77c5db56acc5
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 17 11:36:11 2022 +0100
+
+    Created Exercise 5
+
+commit 29c0e3ad2cf304c60fc04d65ba67d58e9380444c
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 17 10:36:31 2022 +0100
+
+    Corrected °K to °C conversion in Exercise 1
+
+commit ce4031134f4c72b19a62daa6ca925902d9480b51
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Tue Feb 15 13:43:23 2022 +0100
+
+    1
+
+commit d0cd04507642851133a5d8753daf765b30ec5e9f
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Tue Feb 15 13:09:30 2022 +0100
+
+    1
+
+commit 6ea0a1c04b2fb2417c754f7ee18eeecfec091bd4
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Tue Feb 15 12:26:24 2022 +0100
+
+    1
+
+commit 429652e4509588b27ccc8c1c8869f473b4bfd366
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Mon Feb 14 21:57:13 2022 +0100
+
+    1
+
+commit 9dcffeb1476c450ee30d5c57b94144321b54f903
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 10 13:52:38 2022 +0100
+
+    Update Project1.ipynb
+
+commit 4cb668dcce99f9f536806d3d83b0e311b160b2ed
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 10 13:31:33 2022 +0100
+
+    Create .gitignore
+    
+    Sorting a problem with GitHub desktop on Macs
+
+commit 8599971f3d2dfe6901cc8fd602fcb50ac26424fd
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 10 13:28:47 2022 +0100
+
+    Update Project1.ipynb
+
+commit f09e7d30d5c94c782738a610495ea7c4a17ffc4e
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 10 12:42:33 2022 +0100
+
+    Update Project1.ipynb
+
+commit 7a0885c4b0d6d1d8dfafd8059739bcfdfb377b0d
+Author: JurajSeptak <juse@itu.dk>
+Date:   Thu Feb 10 12:14:28 2022 +0100
+
+    Started Exercise 3
+
+commit 91809df695ecc8989666d96d17281d5596574755
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 8 19:46:37 2022 +0100
+
+    Layout changes
+    
+    Updated the project notebook with a more concise and readable layout.
+
+commit 70df7f85e3c8b5ad319b71d6a3be71e22513e623
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 8 13:29:14 2022 +0100
+
+    Reuploaded jupyter notebook
+
+commit b27f1ad6c73ce91492c4be3cdd2cfaad29d0dc76
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 8 13:28:32 2022 +0100
+
+    Delete Project1.ipynb
+
+commit 4b6b75d82c206aa439e3e57273cbf9c4afa0d80a
+Author: Juraj Septak <juse@itu.dk>
+Date:   Tue Feb 8 13:27:08 2022 +0100
+
+    Delete Project1-checkpoint.ipynb
+
+commit 78fe75bd01ed704036b92d9ae1c53289f93cf07a
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 8 13:25:28 2022 +0100
+
+    Made notebook trusted
+
+commit 0ac529b6070e0e81fab41e7e0639bf83e99ec35d
+Author: Julia Justyna Maziarz <jmaz@itu.dk>
+Date:   Tue Feb 8 13:16:04 2022 +0100
+
+    Delete .DS_Store
+
+commit 63c4e142687afb29dee537e46f2cb0d5154cc850
+Author: Juraj Septak <juse@itu.dk>
+Date:   Tue Feb 8 13:15:18 2022 +0100
+
+    Delete .DS_Store
+
+commit 902e9e4a89ab96dd797c8f15494ccb9571e4036a
+Author: JurajSeptak <juse@itu.dk>
+Date:   Tue Feb 8 13:14:18 2022 +0100
+
+    Exercise 2 added
+
+commit aed0a1adcd1568fb2f293f04844c6e779201e39f
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 13:42:57 2022 +0100
+
+    1
+
+commit b03b56f0d905c0f6ec10b3912ea8aecba3460a22
+Author: Juraj Septak <juse@itu.dk>
+Date:   Thu Feb 3 13:39:31 2022 +0100
+
+    Add files via upload
+
+commit fa5fc068b6f159a5c17b37fb373ff39c5ab8e73b
+Author: Juraj Septak <juse@itu.dk>
+Date:   Thu Feb 3 13:38:28 2022 +0100
+
+    Delete Data Analysis.ipynb
+
+commit 7647e70bb754864ab74b6c72d1b4cc4626cd5bc7
+Author: Juraj Septak <juse@itu.dk>
+Date:   Thu Feb 3 13:26:47 2022 +0100
+
+    Add files via upload
+
+commit 3aa5e91d0cfc260e0ba8cca92d41bf3e924f5b5f
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 13:24:52 2022 +0100
+
+    Delete test
+
+commit 9ef1c5ff370b31899261a39d892ed856f391614e
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 13:14:38 2022 +0100
+
+    note
+
+commit 8c08d5ab5564cb94bf23b68081c5bc4c9a7b50f4
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:45:19 2022 +0100
+
+    Delete yeet
+
+commit 9fc3d5aed972d3b06c89c1182d48220a4bb897b8
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:43:54 2022 +0100
+
+    Create yeet
+
+commit 76e1be02ecbf8de9fc6d206702dac33adcb55a1c
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:43:35 2022 +0100
+
+    Delete yeet
+
+commit 08cc0adbacd3d37651a6b1e539625b173aa71a2e
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 12:43:29 2022 +0100
+
+    Add files via upload
+
+commit ffff5225b34739f96f77f4d3156376f65ae7edc0
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:43:26 2022 +0100
+
+    Delete setup
+
+commit 1e71888b5cafa4241f1f6a899fd27389b4161227
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:43:07 2022 +0100
+
+    Add files via upload
+
+commit a25d201e4c306c15eee27ad5edd2ef8568b989fb
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:42:54 2022 +0100
+
+    Create yeet
+
+commit d80e0044ac7a7a6550de90b9c871c02913a564fe
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:35:45 2022 +0100
+
+    Create setup
+
+commit 32c64889b33eaacef5ca7a6aab0984b597d28bc5
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:35:33 2022 +0100
+
+    Create setup
+
+commit 045c9859e0affa4b1dc5073cfb4628bacaee41e5
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:35:17 2022 +0100
+
+    Create setup
+
+commit 7ad2775c5b53ab3e55b986f8a5b714ae80fce65e
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:34:51 2022 +0100
+
+    Create setup
+
+commit 2da2e7005c0a0a85915d7864cf0ac48e0b2a352a
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:34:29 2022 +0100
+
+    Delete data directory
+
+commit bee09fda0c8da508acbf0049847e828be03f96db
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:33:04 2022 +0100
+
+    Create test
+
+commit 1fae7ffead1dc85dfbcc5c57fd863adee37e4293
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 12:32:33 2022 +0100
+
+    Create 1
+
+commit 7cd8864f7b6009fe8d479275eaf02adfe40ea678
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:32:33 2022 +0100
+
+    Create test
+
+commit a40f64e47d81c432feea30479658022269a291fa
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 12:32:13 2022 +0100
+
+    Delete 1.
+
+commit c4e0ca0113b86e99614098747a48bbc00361c29a
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:32:07 2022 +0100
+
+    Create test
+
+commit 862d651d33562f9c573db6d4ef3ead2b7785e2d7
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 12:31:59 2022 +0100
+
+    1.
+    
+    1.
+
+commit d8e5318a92bcc38c2741561146ca5cad05725a00
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:31:52 2022 +0100
+
+    Create test
+
+commit d6493385ee08f372380316fe7929ea52c189df42
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:31:08 2022 +0100
+
+    Create external
+
+commit 120c57b5ba061b1291082138f2ca0ee64b594f1c
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 12:30:53 2022 +0100
+
+    Delete lol
+
+commit eed446448ec299e44aa0a3556140c2ab97e4e7f7
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:30:52 2022 +0100
+
+    Create processed
+
+commit 072b66b681eb59ab960b04db5997433496570273
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:30:38 2022 +0100
+
+    Create interim
+
+commit 85655b0021cb6dc36c505604ef9f70b29af06caf
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 12:30:17 2022 +0100
+
+    Create lol
+
+commit 9aa3ab0b236a3215472f86f1aef79e6da0c7a44f
+Author: Lukas Sarka <lsar@itu.dk>
+Date:   Thu Feb 3 12:30:11 2022 +0100
+
+    Create raw
+
+commit 6ee56dd2540694db74f890f101bfb6c152be0394
+Author: Janusz Jakub Wilczek <jawi@itu.dk>
+Date:   Thu Feb 3 12:25:57 2022 +0100
+
+    Initial commit
